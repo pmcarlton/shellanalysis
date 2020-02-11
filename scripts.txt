@@ -1,0 +1,23 @@
+## bash/perl:
+/opt/bin/chromatic-shift
+    - Flip
+    - Resample2D
+    - mergemrc
+/opt/bin/find-midsection.sh
+    - /opt/bin/meantimesstd (Eric Branlund using IWInclude.h)
+/opt/bin/copyObjsFromPerims.pl
+/opt/bin/get-peripheral-intensity.sh
+    - /opt/bin/find-midsection.sh
+    - /opt/bin/phd-nzs
+    - /opt/bin/sheledm5.m
+        - /opt/bin/g2bw.m → Otsu thresholding
+    - montage
+/opt/bin/plot-normal.sh
+    - gnuplot
+
+##octave:
+mrcreadsec
+
+##Priism:
+Threshold
+2DObjFinder

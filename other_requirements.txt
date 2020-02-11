@@ -1,0 +1,6 @@
+GNU Octave (www.octave.org)
+Octave-forge "image" package (octave.sourceforge.io/image/)
+Imagemagick suite (www.imagemagick.org)
+"Threshold" and "2DObjFinder" from the Priism software suite (msg.ucsf.edu)
+Gnuplot (www.gnuplot.info)
+
